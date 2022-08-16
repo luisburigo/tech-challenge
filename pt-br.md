@@ -8,7 +8,7 @@ O objetivo do nosso teste é conhecer seu nível de proficiência com a stack Ja
 
 Construa uma aplicação FullStack simples utilizando JavaScript. (Back-End and Front-End)
 
-Todo o código deve ser enviado para um único repositório *privado* no GitHub. Adicione o usuário @luizstacio como contribuidor.
+Todo o código deve ser enviado para um único repositório *privado* no GitHub. Adicione o usuário @luisburigo e @guimroque como contribuidor.
 
 ## História
 

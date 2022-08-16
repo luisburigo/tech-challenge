@@ -9,7 +9,7 @@ we can ask some questions about your decisions.
 
 Build a simple FullStack application using JavaScript. (Back-End and Front-End)
 
-All the code should be upload inside a single *private* repository on GitHub. Add the user @luizstacio as a contributor.
+All the code should be upload inside a single *private* repository on GitHub. Add the user @luisburigo and @guimroque as a contributor.
 
 ## Story
 
